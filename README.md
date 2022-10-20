@@ -26,7 +26,7 @@ Connect with me here -
   <button onclick="window.location.href = 'https://space.bilibili.com/514241887?spm_id_from=333.1007.0.0'">bilibili</button>
   <a href="https://aistudio.baidu.com/aistudio/personalcenter/thirdview/2810197"><img src="https://img.shields.io/badge/-AIStudio-9cf" alt="AIStudio"></a>
   <a href="https://juejin.cn/user/734895156761437" target="_Blank"><img src="https://img.shields.io/badge/-juejin-brightgreen" alt="juejin"></a>
-  <a href="https://huggingface.co/Jamey" target="_Blank"><img src="https://img.shields.io/badge/-HuggingFace-yellow" alt="HuggingFace"></a>
+  ![]<a href="https://huggingface.co/Jamey" target="_Blank"><img src="https://img.shields.io/badge/-HuggingFace-yellow" alt="HuggingFace"></a>
  
 </p>
 
