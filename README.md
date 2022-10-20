@@ -35,7 +35,7 @@ Connect with me here -
 </p>
 
  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Jamey-jiang&count_private=true&show_icons=true&bg_color=15,f2f7fd,E0EAFC" />
-
+  
 
 <!--
 **thomas-yanxin/thomas-yanxin** is a  _special_  repository because its `README.md` (this file) appears on your GitHub profile.
@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+- reference from thomas-yanxin
 
  **My Skills**  
 ![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
