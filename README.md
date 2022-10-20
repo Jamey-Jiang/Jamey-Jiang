@@ -1,7 +1,10 @@
 ### Hi there 👋
+<!--
 <head>
   <base target="_Blank">
 </head>
+-->
+
 <!--
 **Jamey-Jiang/Jamey-Jiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
