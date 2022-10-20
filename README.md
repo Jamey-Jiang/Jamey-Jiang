@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 Connect with me here -
 
 <p align="center">
+  <head><base target="_Blank"></head>
   <a href="https://github.com/Jamey-Jiang" target="_Blank"><img src="https://img.shields.io/badge/GitHub-24292e" alt="github"></a>
   <a href="https://blog.csdn.net/qq_56309095?spm=1000.2115.3001.5343"><img src="https://img.shields.io/badge/CSDN-cf000e" alt="csdn"></a>
   <!--<a href="https://space.bilibili.com/514241887?spm_id_from=333.1007.0.0" target="_Blank"><img src="https://img.shields.io/badge/-bilibili-blue" alt="bilibili"></a>
 -->
-  <button onclick="window.location.href = 'https://space.bilibili.com/514241887?spm_id_from=333.1007.0.0'"><img src="https://img.shields.io/badge/-bilibili-blue" alt="bilibili"></a></button>
   <a href="https://aistudio.baidu.com/aistudio/personalcenter/thirdview/2810197"><img src="https://img.shields.io/badge/-AIStudio-9cf" alt="AIStudio"></a>
   <a href="https://juejin.cn/user/734895156761437" target="_Blank"><img src="https://img.shields.io/badge/-juejin-brightgreen" alt="juejin"></a>
   ![]<a href="https://huggingface.co/Jamey" target="_Blank"><img src="https://img.shields.io/badge/-HuggingFace-yellow" alt="HuggingFace"></a>
