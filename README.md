@@ -59,14 +59,16 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
 ![](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=fff)
 ![](https://img.shields.io/badge/-VScode-007ACC?style=flat-square&logo=VScode&logoColor=fff)
+![](https://img.shields.io/badge/-JavaScript-4479F1?style=flat-square&logo=JavaScript&logoColor=fff)
 
 <!--START_SECTION:waka-->
 
+<!--
 ```text
 From: 30 September 2022 - To: 07 October 2022
 Total Time: 1 hr 27 mins
 Python     1 hr 9 mins     >>>>>>>>>>>>>>>>>>>>-----   79.72 %
 Other      10 mins         >>>----------------------   11.77 %
 ```
-
+-->
 <!--END_SECTION:waka-->
